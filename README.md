@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gherlanezu
 - 👀 I’m interested in ... checking my code :)
-- 🌱 I’m currently learning ... Portuguese, Italian and maybe python 
+- 🌱 I’m currently learning ... Italian, German, Portuguese and maybe, later, python 
 - 💞️ I’m looking to collaborate on ... fermentation projects 
 - 📫 How to reach me? https://www.youtube.com/watch?v=StKVS0eI85I 
 - My code is in the internal sandbox
